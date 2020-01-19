@@ -1,0 +1,5 @@
+vendor
+.gitignore
+bme280-exporter
+README.md
+license
